@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fujisan369wz
-- 👀 I’m interested in c++
+- 👀 I’m interested in online judge for contest
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me?
 
 <!---
